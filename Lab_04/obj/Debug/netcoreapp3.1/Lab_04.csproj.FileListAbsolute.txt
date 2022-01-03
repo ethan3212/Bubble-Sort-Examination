@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\Lab_04\bin\Debug\netcoreapp3.1\Lab_04.exe
+C:\Users\ethan\source\repos\Lab_04\bin\Debug\netcoreapp3.1\Lab_04.deps.json
+C:\Users\ethan\source\repos\Lab_04\bin\Debug\netcoreapp3.1\Lab_04.runtimeconfig.json
+C:\Users\ethan\source\repos\Lab_04\bin\Debug\netcoreapp3.1\Lab_04.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Lab_04\bin\Debug\netcoreapp3.1\Lab_04.dll
+C:\Users\ethan\source\repos\Lab_04\bin\Debug\netcoreapp3.1\Lab_04.pdb
+C:\Users\ethan\source\repos\Lab_04\obj\Debug\netcoreapp3.1\Lab_04.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Lab_04\obj\Debug\netcoreapp3.1\Lab_04.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Lab_04\obj\Debug\netcoreapp3.1\Lab_04.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Lab_04\obj\Debug\netcoreapp3.1\Lab_04.dll
+C:\Users\ethan\source\repos\Lab_04\obj\Debug\netcoreapp3.1\Lab_04.pdb
+C:\Users\ethan\source\repos\Lab_04\obj\Debug\netcoreapp3.1\Lab_04.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Lab_04\obj\Debug\netcoreapp3.1\Lab_04.GeneratedMSBuildEditorConfig.editorconfig
